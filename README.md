@@ -1,6 +1,7 @@
 # Grease-Gun-Grease
 
-# Type:
+# Market
+Type:
 ## Marine
 - https://www.walmart.com/ip/ST-GREASE-14OZ-MAR/744374511
 
@@ -14,3 +15,6 @@ Market:
 
 sch: https://www.google.com/search?q=moly+lithium+grease
 
+
+## Multi Duty
+https://www.walmart.com/ip/Super-S-Multi-Duty-Complex-Grease-Tube-14-oz-Gray/548696497

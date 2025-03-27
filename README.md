@@ -14,5 +14,3 @@ Market:
 
 sch: https://www.google.com/search?q=moly+lithium+grease
 
-# Knowledge:
-https://www.graco.com/us/en/vehicle-service/solutions/articles/moly-grease-vs-lithium-whats-the-big-deal.html
